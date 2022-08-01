@@ -1,4 +1,4 @@
 # github_activity
 Hanlo!!!!
-This is my Git Repository
+This is my Github Repository for activity 2
 Enjoy!!
